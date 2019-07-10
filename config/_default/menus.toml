@@ -9,24 +9,43 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "CV"
+  url = "https://www.dropbox.com/s/wuiex2qv7a7nn19/CV.pdf?dl=0"
+  weight = 11
+
+
+[[main]]
+  name = "Research"
+  url = "#research"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Publications"
+  url = "publication"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  # identifier = "teaching" # to create links for sub-menu
+  name = "Teaching"
+  url = "teaching"
   weight = 40
+
+[[main]]
+  name = "Software"
+  url = "software"
+  weight = 50
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 100
+
+
+# [[main]] # example of submenu
+#   parent: "teaching"
+#   name = "..."
+#   url = "#..."
+#   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

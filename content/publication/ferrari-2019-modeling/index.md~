@@ -1,0 +1,24 @@
+---
+title: "Modeling Context-dependent Latent Effect Heterogeneity"
+date: 2019-00-01
+publishDate: 2019-07-08T21:43:28.401139Z
+authors: ["Diogo Ferrari"]
+publication_types: ["2"]
+abstract: "Classical generalized linear models assume that marginal effects are homogeneous in the population given the observed covariates. Researchers can never be sure a priori if that assumption is adequate. Recent literature in statistics and political science have proposed models that use Dirichlet process priors to deal with the possibility of latent heterogeneity in the covariate effects. In this paper, we extend and generalize those approaches and propose a hierarchical Dirichlet process of generalized linear models in which the latent heterogeneity can depend on context-level features. Such a model is important in comparative analyses when the data comes from different countries and the latent heterogeneity can be a function of country-level features. We provide a Gibbs sampler for the general model, a special Gibbs sampler for gaussian outcome variables, and a Hamiltonian Monte Carlo within Gibbs to handle discrete outcome variables. We demonstrate the importance of accounting for latent heterogeneity with a Monte Carlo exercise and with two applications that replicate recent scholarly work. We show how Simpson’s paradox can emerge in the empirical analysis if latent heterogeneity is ignored and how the proposed model can be used to estimate heterogeneity in the effect of covariates."
+featured: false
+publication: "*Political Analysis*"
+links:
+  - icon_pack: fab
+    name: PDF
+    url: "https://doi.org/10.1017/pan.2019.13"
+  - icon_pack: fab
+    name: DOI
+    url: "https://doi.org/10.1017/pan.2019.13"
+  - icon_pack: fab
+    name: GitHub
+    url: "https://github.com/DiogoFerrari/hdpGLM"
+  - icon_pack: fab
+    name: R Package
+    url: "#software"
+---
+

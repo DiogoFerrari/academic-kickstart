@@ -8,14 +8,13 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
-subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 3
+  count = 2
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -27,7 +26,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "2"
     exclude_featured = false
   
 [design]
@@ -36,7 +35,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -57,12 +56,4 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-
 +++

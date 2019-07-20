@@ -84,7 +84,7 @@ user_groups:
 - Visitors
 ---
 <div align="justify">
-Welcome to my website! I am a political methodologist and comparativist with expertise in OECD and Latin America countries. My research interests lie on the intersection of political methodology, micro- and macro-foundations political behavior, and the comparative political economy of distributive politics. My work is published or forthcoming at a number of journals, including <i>Political Analysis</i> and <i>Publius</i>. You can find a sample of my published and current working papers <a href="/publication/">here<a>.<br> <br>
+Welcome to my website! I am a <b>political methodologist</b> and <b>comparativist</b> with expertise in OECD and Latin America countries. My research interests lie on the intersection of political methodology, micro- and macro-foundations political behavior, and the comparative political economy of distributive politics. My work is published or forthcoming at a number of journals, including <i>Political Analysis</i> and <i>Publius</i>. You can find a sample of my published and current working papers <a href="/publication/">here<a>.<br> <br>
 
 My research in political methodology focuses on machine learning, semi-parametric Bayesian statistics, and computational methods. In particular, I have worked with hierarchical semi-parametric models for density estimation and to deal with latent interactive effects in experimental and observational studies in comparative analyses. See more details <a href="/research/">here<a>.<br> <br>
 

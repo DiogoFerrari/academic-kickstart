@@ -1,0 +1,126 @@
+---
+# Course title, summary, and position.
+linktitle: 2011 Brazilian Political Institutions IV
+summary: University of San Paulo (USP) (Graduate Student Instructor, in pt)
+weight: 100
+
+# Page metadata.
+title: 
+date: "2018-09-09T00:00:00Z"
+lastmod: "2018-09-09T00:00:00Z"
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
+menu: 2011-USP-BrIV
+---
+
+
+# FLP0204 – Política IV – Instituições Políticas Brasileiras
+- Professores: Marta Arretche e Fernando Limongi
+- Instrutor: Diogo Ferrari
+
+## Objetivos e procedimentos
+O curso trata do processo político brasileiro pós-revolução de 1930, com atenção especial a três períodos: o experimento democrático inaugurado pela constituição de 1946, o regime autoritário iniciado em 1964 e, por fim, a retomada da democracia nos anos 1980 e sua condição atual. As sessões semanais da disciplina estão divididas em aulas expositivas e seminários.
+
+Os seminários são organizados em torno de debates específicos: textos com visões e explicações alternativas para o mesmo fenômeno. Na semana seguinte à realização do seminário, os alunos devem entregar um pequeno trabalho (não mais que três páginas impressas com as especificações usuais – espaço 2, letra tamanho 12, etc.). O trabalho deve trazer uma resenha crítica do debate. Serão cinco resenhas ao longo do curso. 
+
+A nota final será composta pelas notas das resenhas e de duas provas a serem realizadas em classe. As provas serão individuais e sem consulta a livros ou anotações. Cada resenha trabalho vale 10% da nota final e cada prova 25%. Haverá monitores para acompanhamento e apoio às atividades desenvolvidas no curso. Em caso de impossibilidade de realização da primeira prova, o aluno deverá apresentar requerimento à secretaria do DCP justificando sua ausência. O prazo máximo de apresentação deste requerimento é 21 de setembro. Não haverá prova substitutiva ao final do semestre. Terão direito à prova de recuperação apenas os alunos que entregarem ao menos três resenhas e fizerem as duas provas. A nota da recuperação será calculada com base na média da nota da prova aplicada para esta finalidade e a nota final obtida na disciplina.
+
+## PROGRAMA
+#### 1ª Semana. Apresentação do programa e aula introdutória
+- 1a Parte: Apresentação do Programa
+- 2ª Parte. Aula Expositiva. Introdução: a democracia no Brasil.
+  - CARVALHO, José Murilo (2001). Cidadania no Brasil. São Paulo, Civilização
+Brasileira. Introdução. Págs. 7-13
+
+#### 2a Semana. Cidadania e Democracia
+- 1a Parte: Aula Expositiva. A Revolução de 30 e o novo modelo institucional
+  * LEAL, Victor Nunes (1978). Coronelismo, enxada e voto.[1949] São Paulo, Ed. AlfaOmega. 4ª edição. Cap 1. Págs. 19 a 57.
+  * CARVALHO, José Murilo (2001). Cidadania no Brasil. São Paulo, Civilização Brasileira. Parte do capítulo 1: págs 25 a 45 e parte do Cap 3: págs 85-126.
+- 2ª Parte: Aula Expositiva. Transição: do Estado novo ao Regime de 1946.
+  * LEAL, Victor Nunes (1978). Coronelismo, enxada e voto.[1949] São Paulo, Ed. AlfaOmega. 4ª edição.Cap 6, itens III e seguintes (pag 230 a 249).
+  * SOUZA, Maria do Carmo Campello (1976). “Os Mecanismos da centralização” in Estado e Partidos Políticos no Brasil (1930 a 1964). São Paulo: Alfa-Ômega. Cap 4: págs. 83-104.
+
+#### 3ª Semana. Transição e o regime democrático: mudanças e continuidades
+- 1a Parte: Seminário I. Transição e as origens do sistema partidário
+  * CASTRO GOMES, Angela (2005). “Do Trabalhismo ao PTB” in A Invenção do Trabalhismo. Rio de Janeiro, FGV Editora. 3ª edição. Cap 8: págs. 265-298.
+  * SOUZA, Maria do Carmo Campello (1976). "Do Estado Novo ao regime de 1946".
+Estado e Partidos Políticos no Brasil (1930 a 1964). São Paulo: Alfa-Ômega. Cap 5: págs. 105-138.
+ 2ª. Parte: Aula Expositiva. Corporativismo e cidadania regulada.
+  * SANTOS, Wanderley Guilherme (1987). “Do Laissez-Faire Repressivo à Cidadania em Recesso” in Cidadania e Justiça. Rio de Janeiro: Ed. Campus [2a ed.] Cap. 4: págs. 64-75.
+  * CARVALHO, José Murilo (2001). A Cidadania no Brasil. São Paulo, Civilização Brasileira. Parte do Cap 2: págs. 126-144.
+
+#### 4a Semana. Transição e Regime democrático: militares e partidos
+- 1ª. Parte: Aula Expositiva. Os Militares e o regime.
+  * STEPAN, Alfred. (1975). “Aspectos Civis do padrão Moderador” in Os militares na política. Rio de Janeiro: Artenova. Cap 4: págs. 46-65.
+  * CARVALHO, José Murilo (2005).”Vargas e os militares: Aprendiz de Feiticeiro” in Forças Armadas e Política no Brasil. Jorge Zahar Ed. Cap. 3: págs. 102-117.
+- 2ª. Parte: Aula Expositiva. Participação Política e o Sistema Partidário
+  * BRASIL, Olavo (1983). “Dimensões legais e institucionais do sistema partidário eleitoral” in Partidos Políticos Brasileiros: 45 a 64. Rio de Janeiro: Graal. Cap. 2: págs 37 a 60.
+
+#### 5a Semana. Partidos, Sistema Partidário e Coalizões
+- 1a Parte: Seminário II. Teses sobre a evolução do sistema partidário.
+  * LAVAREDA, Antônio (1991). "Principais teses sobre o sistema partidário-eleitoral de 1945-1964 e as questões não respondidas" in: A Democracia nas Urnas – O Processo Partidário-eleitoral Brasileiro. Rio de Janeiro: IUPERJ/Rio Fundo Editora, Cap.1. Págs. 19-32.
+  * NICOLAU, Jairo (2004). “Partidos na República de 1946: Velhas teses, Novos Dados” DADOS, Vol 47(1) págs. 85-128.
+- 2ª. Parte: Aula Expositiva. Coalizões: as relações entre o Executivo e o Legislativo.
+  * SANTOS, Wanderley Guilherme (2003). “Coalizões parlamentares durante o governo Goulart: a desagregação do sistema partidário” in O Cálculo do Conflito. Belo Horizonte: Editora UFMG, Cap. 10: págs 265-302.
+  * FIGUEIREDO, Argelina (2007). Coalizões governamentais na democracia brasileira. Brazilian Political Science Review 1 (2) . págs 182-216. (só há versão em inglês).
+
+*** 06 e 07 de setembro (Semana da Pátria) – não haverá aula***
+
+#### 6ª. Semana. 1ª PROVA
+
+#### 7ª. Semana (20/09n e 21/09v). Crise política e golpe de 1964. Atores e sistema político.
+- 1a Parte: Aula Expositiva. A derrubada do regime constitucional.
+  * FIGUEIREDO, Argelina Cheibub (1993). A Reforma Agrária via Constituição in Democracia ou reformas? Alternativas democráticas à crise política: 1961- 1964. São Paulo: Paz e Terra., parte do Cap 3, págs 113-130.
+  * STEPAN, Alfred (1975). A Tomada do Poder – A Revolução de 1964in Os militares na política. Rio de Janeiro: Artenova. Cap 9, págs. 138-154.
+- 2a Parte: Aula Expositiva. Explicando o Golpe.
+  * FIGUEIREDO, Argelina Cheibub (1993). Introdução, in Democracia ou reformas? Alternativas democráticas à crise política: 1961-1964. São Paulo: Paz e Terra., págs 21-34.
+  * CARVALHO, José Murilo (2001). A Cidadania no Brasil. São Paulo, Civilização Brasileira. Parte do final do Cap 2: págs. 144-153.
+
+ 
+#### 8ª Semana. O Regime Militar
+- 1ª. Parte: Aula Expositiva. Os Militares no Poder * STEPAN, Alfred (1975). Os Militares Brasileiros no Poder in Os militares na política. Rio de Janeiro: Artenova. Parte IV, Caps 10 e 11: págs. 157-183.
+  * ABRUCIO, Fernando (1998). A Passagem do Modelo Unionista Unitário para o Federalismo Estadualista in Os Barões da Federação: os governadores e a redemocratização brasileira. São Paulo: Hucitec/ USP, 1998. Caps 2: págs. 59- 108
+  * CARVALHO, José Murilo (2001). Cidadania no Brasil. São Paulo: Civilização Brasileira. Cap 3, págs. 157-195.
+- 2ª. Parte: Aula Expositiva. Autoritarismo e Eleições.
+  * LAMOUNIER, Bolivar e Rachel Meneguello (1986). Partidos Políticos e Consolidação Democrática: o caso brasileiro. São Paulo, Brasiliense, Págs 63- 84. 
+
+#### 9a Semana. Politica Social e Transição
+- 1a Parte: Seminário III. Os Militares e a Política Social.
+  * DRAIBE, Sonia. (1989). "As políticas sociais do regime militar brasileiro: 1964-84”. In: Soares, Gláucio D. e D’Araújo, Celina (1994). 21 Anos de Regime Militar. Rio de Janeiro: FGV.
+  * WERNECK VIANNA, Maria Lucia (1998). A Americanização (perversa) da política
+social no Brasil. Rio de Janeiro: Revan, cap. 4, págs 130-166.
+- 2a Parte: Aula Expositiva. Eleições e Redemocratização.
+  * LAMOUNIER, Bolívar. (1988) "O ‘Brasil autoritário’ revisitado: o impacto das eleições sobre a abertura", in: Alfred Stepan (org.), Democratizando o Brasil. Rio de Janeiro: Paz e Terra. Págs 96-134. NOTAR: as primeiras 13 páginas do texto não precisam ser lidas.
+
+#### 10ª Semana. Redemocratização: perspectivas
+- 1.a Parte. Aula Expositiva. Democracia e a Dívida Social.
+  * REIS, Elisa e Zairo Cheibub (1993). “Pobreza, Desigualdade e Consolidação Democrática.” Dados 36(2), págs 233-259.
+  * BARROS Ricardo Paes, Ricardo Henriques e Rosane Mendonça (2000). “Desigualdade e Pobreza no Brasil: retrato de uma estabilidade inaceitável”. Revista Brasileira de Ciências Sociais, 15(42): 123-42.
+- 2ª. Parte: Aula Expositiva. Políticas Sociais e a Democracia
+  * CARVALHO, José Murilo (2001). Cidadania no Brasil. São Paulo: Civilização Brasileira. Cap 4, págs. 199-217.
+
+#### 11ª. Semana  . A Democracia Brasileira pós 1988.
+- 1ª. Parte: Seminário IV. Modelo Institucional e Governabilidade.
+  * FIGUEIREDO, Argelina e Fernando Limongi (2007). “Instituições Políticas e Governabilidade. Desempenho do governo e apoio legislativo na democracia brasileira” in MELO, Carlos R. & SAEZ, Manuel A. A democracia brasileira: balanço e perspectivas para o século 21. Belo Horizonte: Editora UFMG. Págs. 147-198.
+  * LAMOUNIER, Bolívar. (1992) “Estrutura institucional e governabilidade na década de 90”. In Reis Velloso, João Paulo dos (org.). O Brasil e as reformas políticas. Rio de Janeiro: José Olympio. Págs 23-47.
+- 2.a Parte. Aula Expositiva. A Constituição de 1988 e debate institucional.
+  * LIMONGI, Fernando (2008). O Poder Executivo na Constituição Brasileira de 1988 in A Constituição de 1988 na vida brasileira. Ruben George Oliven e outros (org). São Paulo: Hucitec/ANPOCS, págs 23-56.
+  * LAMOUNIER, Bolivar (1987). Perspectivas da Consolidação Democrática: o caso brasileiro. Revista Brasileira de Ciências Sociais, 4(2): 43-64.
+
+#### 12ª Semana. Federalismo
+- 1ª. Parte. Seminário V. Federalismo e Governabilidade. *STEPAN, Alfred. Para uma nova análise comparativa do federalismo e da democracia: federações que restringem ou ampliam o poder do Demos . Dados, 1999, vol.42, n(2), pags 197-251.
+  * ARRETCHE, Marta (2009). “Continuidades e Descontinuidades da Federação Brasileira: de como 1988 facilitou 1995?” Dados, 52(2): 377-423
+- 2ª. Parte. Aula Expositiva. Federalismo e Políticas Públicas * ARRETCHE, Marta (2010). “Federalismo e Igualdade Territorial: Uma Contradição em Termos?”, Dados, 53 (3): 587-620.
+
+#### 13ª Semana. Conclusão: a democracia no Brasil
+- Aula Expositiva. Participação, contestação e redução da desigualdade.
+  * CARVALHO, José Murilo (2001). Cidadania no Brasil. São Paulo: Civilização Brasileira. Conclusão, págs. 219-229.
+  * KINZO, Maria D´Alva. (2004). “Partidos, eleições e democracia no Brasil Pós-1985.” In Revista Brasileira de Ciências Sociais, n. 54, vol. 19.
+  * SOARES, Sergei Suarez Dillon (2006). Distribuição de Renda no Brasil de 1976 a 2004 com ênfase no Período 2001-2004. Texto para Discussão no. 1166. IPEA: Brasília.
+
+#### 14ª Semana. 2a PROVA

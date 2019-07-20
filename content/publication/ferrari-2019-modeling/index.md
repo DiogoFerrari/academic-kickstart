@@ -21,5 +21,9 @@ links:
   - icon_pack: fab
     name: R Package
     url: "software"
+  - icon_pack: fab
+    name: Harvard Dataverse (replication files)
+    url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WB9XLZ"
+    
 ---
 

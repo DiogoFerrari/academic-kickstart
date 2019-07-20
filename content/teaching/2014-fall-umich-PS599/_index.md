@@ -1,0 +1,23 @@
+---
+# Course title, summary, and position.
+linktitle: PolSci 599 – Introduction to Empirical Methods in Political Analysis
+summary: University of Michigan – Ann Arbor – Fall, 2014 (Graduate Student Instructor)
+weight: 99
+
+# Page metadata.
+title: 
+date: "2018-09-09T00:00:00Z"
+lastmod: "2018-09-09T00:00:00Z"
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
+menu: 2014-fall-umich-PS599
+---
+
+
+{{% staticref "files/ps599_syl_v2.pdf" "newtab" %}}Syllabus{{% /staticref %}}
+
